@@ -36,4 +36,5 @@ arguments = ["short"]
 [rule.redefines-builtin-id]
 [rule.use-any]
 [rule.use-errors-new]
-[rule.package-comments]
+[rule.cyclomatic]
+threshold = 10
